@@ -28,11 +28,11 @@ p {
   margin-left: 5rem;
   margin-right: 5rem;
   text-indent: 2rem;
+  box-shadow: 5px 10px;
 }
 a {
   color: #e76f51;
 }
-
 img {
   padding: 10px;
 }
